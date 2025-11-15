@@ -1,0 +1,11 @@
+# Deep learning framework
+torch>=1.8.0           # PyTorch: main deep learning library
+torchvision>=0.9.0     # PyTorch: utilities for computer vision (datasets, transforms)
+
+# Numerical computations
+numpy>=1.19.0           # NumPy: array operations and numerical functions
+
+# Image handling
+Pillow>=8.0.0           # PIL fork: load, save, and process images
+scikit-image>=0.18.0    # Image processing library: PSNR, SSIM metrics
+
