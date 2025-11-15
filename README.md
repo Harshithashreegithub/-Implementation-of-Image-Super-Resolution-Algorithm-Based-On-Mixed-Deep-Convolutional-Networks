@@ -1,0 +1,2 @@
+# -Implementation-of-Image-Super-Resolution-Algorithm-Based-On-Mixed-Deep-Convolutional-Networks
+This project presents an image super-resolution (SR) model based on a mixed deep convolutional network. The model reconstructs high-resolution images from low-resolution inputs using learnable upsampling, convolutional feature extraction, encoder–decoder denoising, and dilated convolutions for multi-scale detail enhancement.
